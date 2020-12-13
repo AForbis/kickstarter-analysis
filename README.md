@@ -24,7 +24,4 @@ Trends in Kickstarter Data for Louise
 3. May and June were the most successful months to launch a play.
 4. For US kickstarters...
 
-Access Kickstarter spreadsheet here: 
-
-![](data-1-1-3-StarterBook.xlsx)
-
+[Access Kickstarter spreadsheet here:](data-1-1-3-StarterBook.xlsx)
