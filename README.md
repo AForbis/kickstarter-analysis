@@ -12,7 +12,7 @@ Trends in Kickstarter Data for Louise
 
 - Theater Outcomes Based on Launch Date
 
-
+![](Theater%20Outcomes_LaunchDate.png)
 
 - US Kickstarters Descriptive Statistics: Goals
 
