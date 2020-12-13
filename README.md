@@ -23,7 +23,7 @@ Trends in Kickstarter Data for Louise
 ![](US_SvsF_Pledged.png)
 
 ## Recommendations
-1. This was great
-2. This was not great
-3. Other considerations
+1. Theater has the most successful outcomes, followed by music, film and video, and technology, respectively.
+2. Within Theater, plays are the most successful subcategory, followed by spaces, and musicals.
+3. May and June were the most successful months to 
 
