@@ -2,14 +2,19 @@
 Trends in Kickstarter Data for Louise
 
 ## Charts/Images
-- Statistics by Category + description
-- Statistics by Subcategory + description
-- Outcomes Based on Launch Date + description
-- US Kickstarters Descripe Statistics: Goals
+- Statistics by Category
+
+- Statistics by Subcategory
+
+- Outcomes Based on Launch Date
+
+![](PivotChart_OutcomesBasedOnLaunchDate.png)
+
+- US Kickstarters Descriptive Statistics: Goals
 
 ![](US%20_SvsF_Goals.png)
   
-- US Kickstarters Descripe Statistics: Pledged
+- US Kickstarters Descriptive Statistics: Pledged
 
 ![](US_SvsF_Pledged.png)
 
