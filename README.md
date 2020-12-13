@@ -2,13 +2,17 @@
 Trends in Kickstarter Data for Louise
 
 ## Charts/Images
-- Statistics by Category
+- Success/Failure by Category (All countries)
 
-- Statistics by Subcategory
+![](OutcomesbyParentCat.png)
+
+- Success/Failure by Subcategory (All countries)
+
+![](OutcomesbySubCat.png)
 
 - Theater Outcomes Based on Launch Date
 
-![](PivotChart_OutcomesBasedOnLaunchDate.png)
+![](Theater Outcomes_LaunchDate.png)
 
 - US Kickstarters Descriptive Statistics: Goals
 
