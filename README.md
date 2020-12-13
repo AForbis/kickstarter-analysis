@@ -11,7 +11,7 @@ Trends in Kickstarter Data for Louise
   
 - US Kickstarters Descripe Statistics: Pledged
 
-![](US%20_SvsF_Pledged.png)
+![](US_SvsF_Pledged.png)
 
 ## Recommendations
 - Finding #1
