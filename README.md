@@ -14,15 +14,12 @@ Trends in Kickstarter Data for Louise
 
 ![](OutcomesPlays.png)
 
-- US Kickstarters Descriptive Statistics: Goals
+- US Kickstarters Goals vs. Pledges: Descriptive Statistics
 
-![](US%20_SvsF_Goals.png)
-  
-- US Kickstarters Descriptive Statistics: Pledged
-
-![](US_SvsF_Pledged.png)
+![](GoalVsPledge_US.png)
 
 ## Recommendations
 1. Theater has the most successful outcomes, followed by music, film and video, and technology, respectively.
 2. Within Theater, plays are the most successful subcategory, followed by spaces, and musicals.
 3. May and June were the most successful months to launch a play.
+4. For US kickstarters...
