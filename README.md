@@ -6,7 +6,7 @@ Trends in Kickstarter Data for Louise
 
 - Statistics by Subcategory
 
-- Outcomes Based on Launch Date
+- Theater Outcomes Based on Launch Date
 
 ![](PivotChart_OutcomesBasedOnLaunchDate.png)
 
@@ -19,7 +19,7 @@ Trends in Kickstarter Data for Louise
 ![](US_SvsF_Pledged.png)
 
 ## Recommendations
-- Finding #1
-- Finding #2
-- Finding #3
+1. This was great
+2. This was not great
+3. Other considerations
 
