@@ -24,6 +24,8 @@
 
 ### Challenges and Difficulties Encountered
 
+#### The biggest difficulty I encountered was after I completed the modules and was beginning the challenge when Excel crashed and I lost several of the pivot tables I had created. It was a much needed reminder for me to save early and often! Another difficulty I encountered was making sure I used the proper mathematical symbols when nesting formulas within countifs() function. I caught a few errors when proofreading the first column. This was a good reminder of how tedious I expect future coding assignments to be and how I will need to keep a watchful eye for errors and have effective debugging protocols in place to reduce the probability of errors.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
