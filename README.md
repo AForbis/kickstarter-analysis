@@ -1,4 +1,4 @@
-__Kickstarting with Excel__
+# Kickstarting with Excel
 
 __Overview of Project__
 
